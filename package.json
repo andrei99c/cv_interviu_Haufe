@@ -1,5 +1,5 @@
 {
-  "homepage": "http://andrei99c.github.io/cv_cv",
+  "homepage": "http://andrei99c.github.io/cv_interviu_Haufe",
   "name": "reactjs",
   "version": "0.1.0",
   "private": true,
@@ -19,7 +19,7 @@
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts testgi",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {

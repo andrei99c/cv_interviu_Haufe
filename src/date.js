@@ -1,12 +1,13 @@
 import React from 'react';
 import "./App.css";
+import andrei from './image/andrei.jpg';
 import Button from "./components/buttons"
 
 function Date(){
     return(
         <div className="Date">
         <p className="nume">
-     <img src="/image/andrei.jpg" alt=""/>
+     <img src={andrei} alt=""/>
      <h3>Cociorvan Andrei</h3>
     
      </p>
